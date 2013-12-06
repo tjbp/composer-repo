@@ -1,3 +1,4 @@
 syntax: glob
-public/*
 composer.phar
+public/
+satis/
