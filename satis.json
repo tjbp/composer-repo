@@ -1,0 +1,6 @@
+{
+    "repositories": [
+        { "type": "git", "url": "http://github.com/tjbp/framework" }
+    ],
+    "require-all": true
+}
