@@ -1,5 +1,5 @@
 {
-    "name": "tjbp's PHP Composer Repo",
+    "name": "tjbp",
     "homepage": "http://php.tjbp.net",
     "repositories": [
         { "type": "git", "url": "http://github.com/tjbp/framework" }
