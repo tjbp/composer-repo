@@ -1,4 +1,3 @@
-syntax: glob
 composer.phar
 public/
 satis/
